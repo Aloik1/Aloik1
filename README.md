@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ilia Kondratenko</h1>
 <h3 align="center">A passionate programming student</h3>
-<a align="center"> <href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/ikondrat" alt="ikondrat's 42 stats" /></a>
+<p align="center"> <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/ikondrat" alt="ikondrat's 42 stats" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aloik1&label=Profile%20views&color=0e75b6&style=flat" alt="aloik1" /> </p>
 
